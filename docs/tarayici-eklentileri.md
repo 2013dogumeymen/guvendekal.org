@@ -1,6 +1,6 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
- - Tablo eklemeyi unutmayın 
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -8,52 +8,47 @@
 
 **Tarayıcı eklentileri**, internet tarayıcınızın verimliliğini arttırmak ve ek özellikler eklemeye yarayan araçlardır. Eklentiler genellikle tarayıcıların resmî mağazalarında yayınlanır ancak yine de yüklediğiniz eklentilerin güvenliğinden emin olduktan sonra yükleyin!
 
-İnternette gezinirken gizlilik, güvenlik ve deneyiminizi arttıracak bazı eklenti önerilerimize geçelim.
-
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ublock.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> uBlock Origin
 
-**uBlock Origin** eklentisi, internet üzerinde karşınıza çıkacak -neredeyse- her reklamı engelleyen tarayıcı eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiştir ve reklam engelleme yeteneği daha iyidir.
-
-Engelleyemediği reklamları, manuel olarak engelleme gibi ek özellikleri mevcuttur. Aynı zamanda çerez ve izleyicileri de engellemektedir.
+**uBlock Origin** eklentisi, internet üzerinde karşınıza çıkacak -neredeyse- her reklamı engelleyen tarayıcı eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiştir ve reklam engelleme yeteneği daha iyidir. Engelleyemediği reklamları, manuel olarak engelleme gibi ek özellikleri mevcuttur. Aynı zamanda çerez ve izleyicileri de engellemektedir.
 
 uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
+<div class="web-store-container">
+ <div class="web-store-box">
+ <i class="fab fa-firefox"></i>
+ <div class="title">
+ <a href="https://addons.mozilla.org/tr/firefox/addon/ublock-origin/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+ </div>
+ </div>
+ <div class="web-store-box">
+ <i class="fab fa-google"></i>
+ <div class="title">
+ <a href="https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+ </div>
+ </div>
+</div>
 
-Youtube içerisinde, içerik üreticilerinin video içerisine yerleştirdiği sponsor bölümlerini atlamaya yarayan SponsorBlock eklentisini zamanınızı koruyacağı ve büyük ihtimalle zaten atlayacağınız yeri otomatik atlayarak sizi yormayacağı için kullanmanızı öneriyoruz.
+### <span style="display: inline-block; vertical-align: middle;"><img src="https://avatars.githubusercontent.com/u/3402969?s=200&v=4" alt="ToS;DR" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> ToS;DR
 
-SponsorBlock içerisinde sadece sponsor değil intro & outro bölümleri ve gereksiz yerler gibi pek çok yeri atlama seçeneği mevcuttur. SponsorBlock eklentisinde sponsor, intro & outro bölümleri topluluk tarafından bildirilmekte ve sonraki kullanıcı için otomatik atlamaktadır. Siz de izlediğiniz videolarda sponsor gibi bölümleri raporlayıp eklentinin gelişmesine katkı sağlayabilirsiniz.
+**ToS;DR (Terms of Service; Didn't Read)**, web hizmetlerinin kullanım koşullarını ve gizlilik politikalarını daha anlaşılır bir şekilde kullanıcıya sunan bir tarayıcı eklentisidir. Bu eklenti sayesinde ziyaret ettiğiniz web sitelerinin kullanım şartlarının özetine ve derecelendirmelerine hızlıca erişebilirsiniz.Eklenti çubuğundaki ToS;DR ikonu sayfanın veri güvenliğine göre yapılan derecelendirme ile değişiyor.
 
-SponsorBlock eklentisi [açık kaynaktır](https://github.com/ajayyy/SponsorBlock?tab=readme-ov-file) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
+?>ToS-DR, [açık kaynaklı](https://github.com/tosdr/browser-extensions) bir projedir ve AGPL-3.0 ile lisanslanmıştır. <span style="color: green;"><small>Özgür Yazılım</small></span> anlayışına dayanarak geliştirilmiş olan bu eklenti, kullanıcıların çevrimiçi gizliliklerini artırmalarına yardımcı olmayı hedefler ve herkesin katkıda bulunabileceği bir yapıya sahiptir.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo Privacy Essentials
+![TosDR](https://raw.githubusercontent.com/odk-0160/guvendekal.org/dac1a5adac1fbbf309ce2fee06706a1fb3772675/docs/images/tosdr.png)
+_**“Şartları okudum ve kabul ediyorum” web'deki en büyük yalandır. Birlikte bunu düzeltebiliriz.**_
 
-DuckDuckGo Privacy Essential eklentisi, pek çok özelliğe sahip internette gizlilik ve güvenliğinizi arttıran bir tarayıcı eklentisidir. 
-
-Girdiğiniz sitenin yüklemeye çalıştığı 3. taraf istekleri (çerez, izleyici) engeller ve hangi isteklerin kimler tarafından yollandığını gösterir. HTTP to HTTPS yapar, ziyaret ettiğiniz site hakkında bilgiler verebilir.
-
-DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/duckduckgo/duckduckgo-privacy-extension) ve Apache-2.0 lisansı kullanmaktadır.
-
-### CanvasBlocker
-
-**CanvasBlocker** eklentisi, tarayıcı parmak izini önemli ölçüde yok eden bir eklentidir. Bir siteye istek yoladığınızda tarayıcınız aracılığı ile sizin hakkınızda bazı bilgiler gider ve bu veriler çoğaldıkça sizin tarayıcı parmak iziniz oluşur çünkü o kadar fazla bilgi gitmiştir ki bu bilgilere sahip dünya üzerinde neredeyse kimse yoktur böylece internetteki mahremiyetimiz zarar görür. Bu eklenti, kullanıcıların parmak izini toplayan Javascript API'lerini engeller.
-
-CanvasBlocker eklentisi sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
-
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
-
-NoScript eklentisi internet üzerinde dolaşırken karşılaşabileceğiniz gizlilik ihlallerinin JavaScript tarafında çözülmesine olanak sağlar. Girdiğiniz
-veya gireceğiniz sitelerin JavaScript kodu çalıştırmasını engelleyebilir ve böylece olası bilgi toplama/çerez oluşturma/konum belirleme gibi gizlilik
-ihlallerini ortadan kaldırır.
-
-Proje tamamen [açık kaynaklı](https://github.com/hackademix/noscript) olmakla beraber GPL-3.0 <span style="color: green;"><small>(Özgür Yazılım)</small></span> lisansına sahiptir.
-
-!> NoScript eklentisini her sayfada çalıştırmak, sayfanın bozulmasına yol açabilmektedir. Eklentiyi sadece güvenmediğiniz veya az bilinen sitelere giriş yaparken kullanmanız önerilmektedir.
-
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/umatrix.png" alt="uMatrix" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> uMatrix
-
-uMatrix eklentisi çoğu konumda gelişmiş kullanıcılara hitap eden ve gizlilik/güvenlik konusunda kendini kanıtlamış bir eklentidir. NoScript'in içerdiği özellikler de dahil olmak üzere birçok özelliğe sahiptir. Reklamları engelleyebilir, sitelere göndermiş olduğunuz HTTP isteklerinin ne olduğunu detaylıca inceleyebilir ve dilerseniz belirli istekleri kapatabilirsiniz.
-
-Bu eklentiyi bir çakı niyetiyle kullanabilir ve yer yer farklı özelliklerinden faydalanabilirsiniz. Listede geçen diğer eklentiler gibi uMatrix de [açık kaynaklı](https://github.com/gorhill/uMatrix) bir eklenti olmakla beraber GPL-3.0 <span style="color: green;"><small>(Özgür Yazılım)</small></span> lisansına sahiptir.
-
-?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz.
+<div class="web-store-container">
+ <div class="web-store-box">
+ <i class="fab fa-firefox"></i>
+ <div class="title">
+ <a href="https://addons.mozilla.org/tr/firefox/addon/terms-of-service-didnt-read/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+ </div>
+ </div>
+ <div class="web-store-box">
+ <i class="fab fa-google"></i>
+ <div class="title">
+ <a href="https://chromewebstore.google.com/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+ </div>
+ </div>
+</div>
